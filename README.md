@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vallabha412
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning IT technologies particulary Data Science using Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me through GIT/email only.
 
 <!---
 vallabha412/vallabha412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
